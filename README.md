@@ -6,8 +6,6 @@
 
 > "People can only accept a solution once they've recognized the problem."
 
-![Tech Stack](https://skillicons.dev/icons?i=python,django,nodejs,ts,java,kotlin,spring,react,postgres,mysql,mongodb,redis,kafka,aws,docker,ansible,git,github,githubactions,html,css,md,nginx,bash,linux,arch,apple)
-
 ## 🧠 Expertise
 
 ### 🌍 Industries
@@ -21,7 +19,8 @@
 - Identity & Access Management
 - Cyber Security
 
----
+### 🖥️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=python,django,nodejs,ts,java,kotlin,spring,react,postgres,mysql,mongodb,redis,kafka,aws,docker,ansible,git,github,githubactions,html,css,md,nginx,bash,linux,arch,apple)
 
 ## 🎤 Publications, Talks & Lectures
 
@@ -34,8 +33,6 @@
 - **AWS Security Reference Architecture** — AWS User Group Karlsruhe, 2025
 - **Die Architektur von morgen: Events, Streams und Resilienz** — tech:lounge Live, 2025
 - **Systemintegration neu gedacht: die Silver Copy** — W-JAX, 2025
-
----
 
 ## 🛋️ Off the Clock
 
