@@ -10,10 +10,10 @@
 
 ## 🧠 Expertise
 
-### Industries
+### 🌍 Industries
 🚗 Automotive · 🏛️ Government · 🛠️ Industry · ☎️ Telecommunications · ⚡ Energy · 🏦 Finance
 
-### Skills
+### ⚙️ Skills
 - Software Architecture
 - Event-driven Integration of Distributed Systems
 - Refactoring & Modernization of Legacy Systems
@@ -25,11 +25,11 @@
 
 ## 🎤 Publications, Talks & Lectures
 
-### Lecturer
-- *Cloud Computing and Security* — TH Mannheim, WS24/25
-- *Cloud Computing and Security* — TH Mannheim, WS25/26
+### 🎓 Lecturer
+- **Cloud Computing and Security** — TH Mannheim, WS24/25
+- **Cloud Computing and Security** — TH Mannheim, WS25/26
 
-### Talks
+### 🎙️ Talks
 - **Tackling Cross-Cutting Concerns — Unleashing the Power of AOP in Spring Boot!** — Entwickler.de, 2023
 - **AWS Security Reference Architecture** — AWS User Group Karlsruhe, 2025
 - **Die Architektur von morgen: Events, Streams und Resilienz** — tech:lounge Live, 2025
@@ -37,16 +37,16 @@
 
 ---
 
-## 🎬 Off the Clock
+## 🛋️ Off the Clock
 
-### Hobbies
-Mountain Biking · Board Games · Smart Home Enthusiast & IoT Hacker
+### 🧩 Hobbies
+🚵 Mountain Biking · 🎲 Board Games · 🏠 Smart Home Enthusiast · 🤖 IoT Hacker
 
-### Favorite Movies
+### 🎬 Favorite Movies
 Fight Club · Ghost in the Shell · Deadpool · WALL-E
 
-### Favorite Video Games
+### 🎮 Favorite Video Games
 The Legend of Zelda: Link's Awakening · Secret of Mana · Secret of Evermore · Half-Life · Jagged Alliance 2 · Warcraft III · The Witcher 3
 
-### Favorite Artists
+### 🎵 Favorite Artists
 Linkin Park · Nirvana · Grandson
